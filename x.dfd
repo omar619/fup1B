@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+12
+'variable a'
+5
+1
+1
+a
+4
+1
+12
+'variable b'
+5
+1
+1
+b
+4
+1
+14
+'variviable c'
+5
+1
+1
+c
+6
+1
+2
+v1
+13
+(b*b)-(4*a*c)
+4
+1
+16
+'resultado x',v1
+6
+2
+5
+total
+8
+sqrt(v1)
+1
+x
+13
+(b+total)/2*a
+4
+1
+18
+'resultado', total
+4
+1
+21
+'resultado final x',x
+1
